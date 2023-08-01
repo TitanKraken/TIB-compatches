@@ -1,0 +1,243 @@
+﻿russian = {
+	color = russian
+	
+	#created = 930.1.1
+	#parents = { norse } 
+	#history_loc_override = russian_history_loc
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
+	}
+	
+	name_list = name_list_russian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { slavic_building_gfx western_building_gfx }
+	clothing_gfx = { northern_slav_clothing_gfx }
+	unit_gfx = { east_slavic_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+			5 = european_slavic_northern_blond_1
+			5 = european_slavic_northern_blond_2
+			5 = european_slavic_northern_blond_3
+			5 = european_slavic_northern_blond_4
+			5 = european_slavic_northern_blond_5
+			5 = european_caucasian_northern_blond_8
+			4 = european_slavic_northern_ginger_1
+			4 = european_slavic_northern_ginger_2
+			6 = european_slavic_northern_brown_1
+			6 = european_slavic_northern_brown_2
+			6 = european_slavic_northern_dark_1
+			6 = european_slavic_northern_dark_2
+			2 = european_eastern_slavic_1
+			2 = european_eastern_slavic_2
+			2 = european_eastern_slavic_3
+			2 = european_eastern_slavic_4
+			2 = european_eastern_slavic_5
+			2 = european_eastern_slavic_6
+			2 = european_eastern_slavic_7
+			2 = european_eastern_slavic_8
+			2 = european_eastern_slavic_9
+			2 = european_eastern_slavic_10
+			2 = european_eastern_slavic_11
+			2 = european_eastern_slavic_12
+			2 = european_eastern_slavic_13
+			2 = european_eastern_slavic_14
+			2 = european_eastern_slavic_15
+			2 = european_eastern_slavic_16
+			2 = european_eastern_slavic_17
+			2 = european_eastern_slavic_18
+			2 = european_eastern_slavic_19
+			2 = european_eastern_slavic_20
+			2 = european_eastern_slavic_21
+			2 = european_eastern_slavic_22
+			2 = european_eastern_slavic_23
+			2 = european_eastern_slavic_24
+			2 = european_eastern_slavic_25
+			2 = european_eastern_slavic_26
+			2 = european_eastern_slavic_27
+			2 = european_eastern_slavic_28
+			2 = european_eastern_slavic_29
+			2 = european_eastern_slavic_30
+			2 = european_eastern_slavic_31
+			2 = european_eastern_slavic_32
+			2 = european_eastern_slavic_33
+			2 = european_eastern_slavic_34
+			2 = european_eastern_slavic_35
+			2 = european_eastern_slavic_36
+	}
+}
+
+varangian_rus = {
+	color = { 52 120 69 }
+	
+	created = 930.1.1
+	parents = { norse russian } 
+	#history_loc_override = russian_history_loc
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+	}
+	dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	dlc_tradition = {
+		trait = tradition_fp1_coastal_warriors
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_hird
+	}
+	dlc_tradition = {
+		trait = tradition_fp1_northern_stories
+		requires_dlc_flag = the_northern_lords
+		fallback = tradition_runestones
+	}
+	
+	name_list = name_list_russian # name_list_varangian_rus
+
+	coa_gfx = { norse_coa_gfx east_slavic_group_coa_gfx }
+	building_gfx = { norse_building_gfx }
+	clothing_gfx = { northern_slav_clothing_gfx fp1_norse_clothing_gfx }
+	unit_gfx = { east_slavic_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+			5 = european_slavic_northern_blond_1
+			5 = european_slavic_northern_blond_2
+			5 = european_slavic_northern_blond_3
+			5 = european_slavic_northern_blond_4
+			5 = european_slavic_northern_blond_5
+			5 = european_caucasian_northern_blond_8
+			4 = european_slavic_northern_ginger_1
+			4 = european_slavic_northern_ginger_2
+			6 = european_slavic_northern_brown_1
+			6 = european_slavic_northern_brown_2
+			6 = european_slavic_northern_dark_1
+			6 = european_slavic_northern_dark_2
+			2 = european_eastern_slavic_1
+			2 = european_eastern_slavic_2
+			2 = european_eastern_slavic_3
+			2 = european_eastern_slavic_4
+			2 = european_eastern_slavic_5
+			2 = european_eastern_slavic_6
+			2 = european_eastern_slavic_7
+			2 = european_eastern_slavic_8
+			2 = european_eastern_slavic_9
+			2 = european_eastern_slavic_10
+			2 = european_eastern_slavic_11
+			2 = european_eastern_slavic_12
+			2 = european_eastern_slavic_13
+			2 = european_eastern_slavic_14
+			2 = european_eastern_slavic_15
+			2 = european_eastern_slavic_16
+			2 = european_eastern_slavic_17
+			2 = european_eastern_slavic_18
+			2 = european_eastern_slavic_19
+			2 = european_eastern_slavic_20
+			2 = european_eastern_slavic_21
+			2 = european_eastern_slavic_22
+			2 = european_eastern_slavic_23
+			2 = european_eastern_slavic_24
+			2 = european_eastern_slavic_25
+			2 = european_eastern_slavic_26
+			2 = european_eastern_slavic_27
+			2 = european_eastern_slavic_28
+			2 = european_eastern_slavic_29
+			2 = european_eastern_slavic_30
+			2 = european_eastern_slavic_31
+			2 = european_eastern_slavic_32
+			2 = european_eastern_slavic_33
+			2 = european_eastern_slavic_34
+			2 = european_eastern_slavic_35
+			2 = european_eastern_slavic_36
+	}
+}
+
+############MORE BOOKMARKS########################
+
+novgorodian = { #Old Novgorod. Was a meaningfully different dialect in CKs timeframe #Was novgorod
+	color = { 0.1 0.5 0.1 }
+	
+	created = 1000.1.1
+	parents = { russian }
+	
+	ethos = ethos_communal
+	heritage = heritage_east_slavic
+	language = language_east_slavic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_druzhina
+		tradition_mendicant_mystics
+		tradition_welcoming
+	}
+	
+	name_list = name_list_russian
+
+	coa_gfx = { east_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { slavic_building_gfx western_building_gfx }
+	clothing_gfx = { northern_slav_clothing_gfx }
+	unit_gfx = { east_slavic_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+			5 = european_slavic_northern_blond_1
+			5 = european_slavic_northern_blond_2
+			5 = european_slavic_northern_blond_3
+			5 = european_slavic_northern_blond_4
+			5 = european_slavic_northern_blond_5
+			5 = european_caucasian_northern_blond_8
+			4 = european_slavic_northern_ginger_1
+			4 = european_slavic_northern_ginger_2
+			6 = european_slavic_northern_brown_1
+			6 = european_slavic_northern_brown_2
+			6 = european_slavic_northern_dark_1
+			6 = european_slavic_northern_dark_2
+			2 = european_eastern_slavic_1
+			2 = european_eastern_slavic_2
+			2 = european_eastern_slavic_3
+			2 = european_eastern_slavic_4
+			2 = european_eastern_slavic_5
+			2 = european_eastern_slavic_6
+			2 = european_eastern_slavic_7
+			2 = european_eastern_slavic_8
+			2 = european_eastern_slavic_9
+			2 = european_eastern_slavic_10
+			2 = european_eastern_slavic_11
+			2 = european_eastern_slavic_12
+			2 = european_eastern_slavic_13
+			2 = european_eastern_slavic_14
+			2 = european_eastern_slavic_15
+			2 = european_eastern_slavic_16
+			2 = european_eastern_slavic_17
+			2 = european_eastern_slavic_18
+			2 = european_eastern_slavic_19
+			2 = european_eastern_slavic_20
+			2 = european_eastern_slavic_21
+			2 = european_eastern_slavic_22
+			2 = european_eastern_slavic_23
+			2 = european_eastern_slavic_24
+			2 = european_eastern_slavic_25
+			2 = european_eastern_slavic_26
+			2 = european_eastern_slavic_27
+			2 = european_eastern_slavic_28
+			2 = european_eastern_slavic_29
+			2 = european_eastern_slavic_30
+			2 = european_eastern_slavic_31
+			2 = european_eastern_slavic_32
+			2 = european_eastern_slavic_33
+			2 = european_eastern_slavic_34
+			2 = european_eastern_slavic_35
+			2 = european_eastern_slavic_36
+	}
+}
+
+############END ADDED CULTURES####################

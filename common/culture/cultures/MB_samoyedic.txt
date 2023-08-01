@@ -1,0 +1,28 @@
+﻿#New
+nenets = {
+	color = { 0.2 0.55 0.23 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_ugro_permian
+	language = language_nenets
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_isolationist
+	}
+	
+	name_list = name_list_nenets
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			20 = european_circumpolar_dark_1
+			20 = european_circumpolar_dark_2
+			20 = european_circumpolar_brown_1
+			20 = european_circumpolar_brown_2
+			20 = european_circumpolar_blond_1
+			20 = european_circumpolar_blond_2
+	}
+}

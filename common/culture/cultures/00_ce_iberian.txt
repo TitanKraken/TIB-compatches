@@ -1,0 +1,163 @@
+﻿#CE Version
+navarro_aragonese = {
+	color = { 0.80 0.67 0.24  }
+
+	parents = { mozarab }
+
+	created = 850.1.1
+	
+	ethos = ethos_bellicose
+	heritage = heritage_iberian
+	language = language_pyreanean
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_visigothic_codes
+		tradition_stand_and_fight
+		tradition_mountaineers
+	}
+
+	dlc_tradition = {
+		trait = tradition_fp2_ritualised_friendship
+		requires_dlc_flag = the_fate_of_iberia
+		fallback = tradition_wedding_ceremonies
+	}
+	
+	name_list = name_list_aragonese
+	
+	coa_gfx = { iberian_group_coa_gfx western_coa_gfx }
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberia_clothing_gfx iberian_muslim_clothing_gfx } 
+	unit_gfx = { iberian_christian_unit_gfx iberian_unit_gfx western_unit_gfx }
+	
+	ethnicities = {
+		2 = european_med_iberian_1
+		2 = european_med_iberian_2
+		2 = european_med_iberian_3
+		2 = european_med_iberian_4
+		2 = european_med_iberian_5
+		2 = european_med_iberian_6
+		2 = european_med_iberian_7
+		2 = european_med_iberian_8
+		2 = european_med_iberian_9
+		2 = european_med_iberian_2
+		2 = european_med_iberian_11
+		2 = european_med_iberian_12
+		2 = european_med_iberian_13
+		2 = european_med_iberian_14
+		2 = european_med_iberian_15
+		2 = european_med_iberian_16
+		2 = european_med_iberian_17
+		2 = european_med_iberian_18
+		2 = european_med_iberian_19
+		2 = european_med_iberian_20
+		2 = european_med_iberian_21
+		2 = european_med_iberian_22
+		2 = european_med_iberian_23
+		2 = european_med_iberian_24
+		2 = european_med_iberian_25
+		2 = european_med_iberian_26
+		2 = european_med_iberian_27
+		2 = european_med_iberian_28
+		2 = european_med_iberian_29
+		2 = european_med_iberian_30
+		2 = european_med_iberian_31
+		2 = european_med_iberian_32
+		2 = european_med_iberian_33
+		2 = european_med_iberian_34
+		2 = european_med_iberian_35
+		2 = european_med_iberian_36
+		2 = european_med_iberian_37
+		2 = european_med_iberian_38
+		2 = european_med_iberian_39
+		2 = european_med_iberian_40
+		2 = european_med_iberian_41
+		2 = european_med_iberian_42
+		2 = european_med_iberian_43
+		2 = european_med_iberian_44
+		2 = european_med_iberian_45
+		2 = european_med_iberian_46
+		2 = european_med_iberian_47
+	}
+}
+
+iqritis = {
+	color = { 0.45 0.65 0.15 }
+
+	parents = { andalusian }
+
+	created = 824.1.1
+	
+	ethos = ethos_bellicose
+	heritage = heritage_iberian
+	language = language_maghrebi
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_practiced_pirates
+		tradition_talent_acquisition
+		tradition_seafaring
+		tradition_stalwart_defenders
+	}
+
+	dlc_tradition = {
+		trait = tradition_fp2_strategy_gamers
+		requires_dlc_flag = the_fate_of_iberia
+	}
+	
+	name_list = name_list_andalusian
+	
+	coa_gfx = { arabic_group_coa_gfx } 
+	building_gfx = { iberian_building_gfx }
+	clothing_gfx = { iberian_muslim_clothing_gfx dde_abbasid_clothing_gfx mena_clothing_gfx }
+	unit_gfx = { iberian_muslim_unit_gfx }
+	
+	ethnicities = {
+		2 = european_med_iberian_1
+		2 = european_med_iberian_2
+		2 = european_med_iberian_3
+		2 = european_med_iberian_4
+		2 = european_med_iberian_5
+		2 = european_med_iberian_6
+		2 = european_med_iberian_7
+		2 = european_med_iberian_8
+		2 = european_med_iberian_9
+		2 = european_med_iberian_2
+		2 = european_med_iberian_11
+		2 = european_med_iberian_12
+		2 = european_med_iberian_13
+		2 = european_med_iberian_14
+		2 = european_med_iberian_15
+		2 = european_med_iberian_16
+		2 = european_med_iberian_17
+		2 = european_med_iberian_18
+		2 = european_med_iberian_19
+		2 = european_med_iberian_20
+		2 = european_med_iberian_21
+		2 = european_med_iberian_22
+		2 = european_med_iberian_23
+		2 = european_med_iberian_24
+		2 = european_med_iberian_25
+		2 = european_med_iberian_26
+		2 = european_med_iberian_27
+		2 = european_med_iberian_28
+		2 = european_med_iberian_29
+		2 = european_med_iberian_30
+		2 = european_med_iberian_31
+		2 = european_med_iberian_32
+		2 = european_med_iberian_33
+		2 = european_med_iberian_34
+		2 = european_med_iberian_35
+		2 = european_med_iberian_36
+		2 = european_med_iberian_37
+		2 = european_med_iberian_38
+		2 = european_med_iberian_39
+		2 = european_med_iberian_40
+		2 = european_med_iberian_41
+		2 = european_med_iberian_42
+		2 = european_med_iberian_43
+		2 = european_med_iberian_44
+		2 = european_med_iberian_45
+		2 = european_med_iberian_46
+		2 = european_med_iberian_47
+	}
+}
+

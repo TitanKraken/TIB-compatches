@@ -1,0 +1,174 @@
+﻿#New
+# Several groups in this file have extremely little available evidence to go off of, and so are more educated guesses than we'd like. They should be updated comprehensively when we can. Specifically:
+	# * Komi
+
+komi = { # AKA "Permian"
+	color = komi
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_komi
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			35 = european_circumpolar_dark_1
+			35 = european_circumpolar_dark_2
+			15 = european_circumpolar_brown_1
+			15 = european_circumpolar_brown_2
+	}
+}
+
+udmurt = { 
+	color = udmurt
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_ugro_permian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_wardens
+		tradition_frugal_armorsmiths
+	}
+	
+	name_list = name_list_komi
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+		4 = asian_turkic_5
+		4 = asian_turkic_6
+		4 = asian_turkic_7
+		4 = asian_turkic_8 
+		4 = asian_turkic_9
+		4 = asian_turkic_10
+		4 = asian_turkic_11
+		4 = asian_turkic_12
+		4 = asian_turkic_13
+		4 = asian_turkic_14
+		4 = asian_turkic_15 
+		2 = asian_turkic_16
+		2 = asian_turkic_16_eastern
+		2 = asian_turkic_17
+		2 = asian_turkic_17_eastern
+		4 = asian_turkic_18
+		4 = asian_turkic_19
+		4 = asian_turkic_20
+		4 = asian_turkic_21
+		4 = asian_turkic_22
+		4 = asian_turkic_22
+		4 = asian_turkic_23
+		4 = asian_turkic_24
+		4 = asian_turkic_25
+		4 = asian_turkic_26
+		4 = asian_turkic_27
+		4 = asian_turkic_28
+		4 = asian_turkic_29
+		4 = asian_turkic_30
+		4 = asian_turkic_36
+		4 = asian_turkic_37
+		4 = asian_turkic_38
+		4 = asian_turkic_39
+		4 = asian_turkic_40
+		4 = asian_turkic_41
+		4 = asian_turkic_42
+		4 = asian_turkic_43
+		4 = asian_turkic_44
+		4 = asian_turkic_45
+		3 = asian_turkic_46
+		3 = asian_turkic_47
+		3 = asian_turkic_48
+		3 = asian_turkic_49
+		3 = asian_turkic_50
+	}
+}
+
+
+khanty = { # AKA "Ostyak"
+	color = { 0.4 0.65 0.20 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_ugro_permian
+	language = language_magyar #Made 'Magyar' language Ugric to better match other languages being based on language branches and not specific languages and also better showing their connection to the Urals as well
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_zealous_people
+		tradition_isolationist
+	}
+	
+	name_list = name_list_khanty
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+		4 = asian_turkic_1
+		4 = asian_turkic_2
+		4 = asian_turkic_3
+		4 = asian_turkic_4
+		4 = asian_turkic_5
+		4 = asian_turkic_6
+		4 = asian_turkic_7
+		4 = asian_turkic_8 
+		4 = asian_turkic_9
+		4 = asian_turkic_10
+		4 = asian_turkic_11
+		4 = asian_turkic_12
+		4 = asian_turkic_13
+		4 = asian_turkic_14
+		4 = asian_turkic_15 
+		2 = asian_turkic_16
+		2 = asian_turkic_16_eastern
+		2 = asian_turkic_17
+		2 = asian_turkic_17_eastern
+		4 = asian_turkic_18
+		4 = asian_turkic_19
+		4 = asian_turkic_20
+		4 = asian_turkic_21
+		4 = asian_turkic_22
+		4 = asian_turkic_22
+		4 = asian_turkic_23
+		4 = asian_turkic_24
+		4 = asian_turkic_25
+		4 = asian_turkic_26
+		4 = asian_turkic_27
+		4 = asian_turkic_28
+		4 = asian_turkic_29
+		4 = asian_turkic_30
+		4 = asian_turkic_36
+		4 = asian_turkic_37
+		4 = asian_turkic_38
+		4 = asian_turkic_39
+		4 = asian_turkic_40
+		4 = asian_turkic_41
+		4 = asian_turkic_42
+		4 = asian_turkic_43
+		4 = asian_turkic_44
+		4 = asian_turkic_45
+		3 = asian_turkic_46
+		3 = asian_turkic_47
+		3 = asian_turkic_48
+		3 = asian_turkic_49
+		3 = asian_turkic_50
+	}
+}
+

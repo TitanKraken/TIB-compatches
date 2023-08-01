@@ -1,0 +1,859 @@
+﻿# WESTERN IRANIAN
+
+parthian = {
+	color = { 0.82 0.72 0.74 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_iranian
+	language = language_parthian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_poetry
+		tradition_culture_blending
+		tradition_dryland_dwellers
+		tradition_horse_breeder
+		tradition_hit_and_run
+	}
+	
+	name_list = name_list_persian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_persian_1
+		2 = iranian_persian_2
+		2 = iranian_persian_3
+		2 = iranian_persian_4
+		2 = iranian_persian_5
+		2 = iranian_persian_6
+		2 = iranian_persian_7
+		2 = iranian_persian_8
+		2 = iranian_persian_9
+		2 = iranian_persian_10
+		2 = iranian_persian_11
+		2 = iranian_persian_12
+		2 = iranian_persian_13
+		2 = iranian_persian_14
+		2 = iranian_persian_15
+		2 = iranian_persian_16
+		2 = iranian_persian_17
+		2 = iranian_persian_18
+		2 = iranian_persian_19
+		2 = iranian_persian_20
+		2 = iranian_persian_21
+		2 = iranian_persian_22
+		2 = iranian_persian_23
+		2 = iranian_persian_24
+		2 = iranian_persian_25
+		2 = iranian_persian_26
+		2 = iranian_persian_27
+		2 = iranian_persian_28
+		2 = iranian_persian_29
+		2 = iranian_persian_30
+		2 = iranian_persian_31
+		2 = iranian_persian_32
+		2 = iranian_persian_33
+		2 = iranian_persian_34
+		2 = iranian_persian_35
+		2 = iranian_persian_36
+		2 = iranian_persian_37
+		2 = iranian_persian_38
+		2 = iranian_persian_39
+		2 = iranian_persian_40
+		2 = iranian_persian_41
+		2 = iranian_persian_42
+		2 = iranian_persian_43
+		2 = iranian_persian_44
+		2 = iranian_persian_45
+		2 = iranian_persian_46
+		2 = iranian_persian_47
+		2 = iranian_persian_48
+		2 = iranian_persian_49
+		2 = iranian_persian_50
+		2 = iranian_persian_51
+		2 = iranian_persian_52
+		2 = iranian_persian_53
+		2 = iranian_persian_54
+		2 = iranian_persian_55
+		2 = iranian_persian_56
+		2 = iranian_persian_57
+		2 = iranian_persian_58
+		2 = iranian_persian_59
+		2 = iranian_persian_60
+		2 = iranian_persian_61
+		2 = iranian_persian_62
+		2 = iranian_persian_63
+		2 = iranian_persian_64
+		2 = iranian_persian_65
+		2 = iranian_persian_66
+		2 = iranian_persian_67
+		2 = iranian_persian_68
+		2 = iranian_persian_69
+		2 = iranian_persian_70
+		2 = iranian_persian_71
+		2 = iranian_persian_72
+		2 = iranian_persian_73
+		2 = iranian_persian_74
+		2 = iranian_persian_75
+	}
+}
+
+semnani = {
+	color = { 0.752 0.725 0.427 }
+
+	parents = { parthian }
+
+	created = 600.1.1
+	
+	ethos = ethos_communal
+	heritage = heritage_iranian
+	language = language_caspian_iranian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_poetry
+		tradition_dryland_dwellers
+		tradition_hit_and_run
+		tradition_esteemed_hospitality 
+	}
+	
+	name_list = name_list_persian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_persian_1
+		2 = iranian_persian_2
+		2 = iranian_persian_3
+		2 = iranian_persian_4
+		2 = iranian_persian_5
+		2 = iranian_persian_6
+		2 = iranian_persian_7
+		2 = iranian_persian_8
+		2 = iranian_persian_9
+		2 = iranian_persian_10
+		2 = iranian_persian_11
+		2 = iranian_persian_12
+		2 = iranian_persian_13
+		2 = iranian_persian_14
+		2 = iranian_persian_15
+		2 = iranian_persian_16
+		2 = iranian_persian_17
+		2 = iranian_persian_18
+		2 = iranian_persian_19
+		2 = iranian_persian_20
+		2 = iranian_persian_21
+		2 = iranian_persian_22
+		2 = iranian_persian_23
+		2 = iranian_persian_24
+		2 = iranian_persian_25
+		2 = iranian_persian_26
+		2 = iranian_persian_27
+		2 = iranian_persian_28
+		2 = iranian_persian_29
+		2 = iranian_persian_30
+		2 = iranian_persian_31
+		2 = iranian_persian_32
+		2 = iranian_persian_33
+		2 = iranian_persian_34
+		2 = iranian_persian_35
+		2 = iranian_persian_36
+		2 = iranian_persian_37
+		2 = iranian_persian_38
+		2 = iranian_persian_39
+		2 = iranian_persian_40
+		2 = iranian_persian_41
+		2 = iranian_persian_42
+		2 = iranian_persian_43
+		2 = iranian_persian_44
+		2 = iranian_persian_45
+		2 = iranian_persian_46
+		2 = iranian_persian_47
+		2 = iranian_persian_48
+		2 = iranian_persian_49
+		2 = iranian_persian_50
+		2 = iranian_persian_51
+		2 = iranian_persian_52
+		2 = iranian_persian_53
+		2 = iranian_persian_54
+		2 = iranian_persian_55
+		2 = iranian_persian_56
+		2 = iranian_persian_57
+		2 = iranian_persian_58
+		2 = iranian_persian_59
+		2 = iranian_persian_60
+		2 = iranian_persian_61
+		2 = iranian_persian_62
+		2 = iranian_persian_63
+		2 = iranian_persian_64
+		2 = iranian_persian_65
+		2 = iranian_persian_66
+		2 = iranian_persian_67
+		2 = iranian_persian_68
+		2 = iranian_persian_69
+		2 = iranian_persian_70
+		2 = iranian_persian_71
+		2 = iranian_persian_72
+		2 = iranian_persian_73
+		2 = iranian_persian_74
+		2 = iranian_persian_75
+	}
+}
+
+azeri = { #CE Version but my name
+	color = { 0.733 0.756 0.521 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_iranian
+	language = language_caspian_iranian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_castle_keepers
+		tradition_hill_dwellers
+		tradition_loyal_soldiers
+		tradition_futuwaa
+	}
+	
+	name_list = name_list_persian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_persian_1
+		2 = iranian_persian_2
+		2 = iranian_persian_3
+		2 = iranian_persian_4
+		2 = iranian_persian_5
+		2 = iranian_persian_6
+		2 = iranian_persian_7
+		2 = iranian_persian_8
+		2 = iranian_persian_9
+		2 = iranian_persian_10
+		2 = iranian_persian_11
+		2 = iranian_persian_12
+		2 = iranian_persian_13
+		2 = iranian_persian_14
+		2 = iranian_persian_15
+		2 = iranian_persian_16
+		2 = iranian_persian_17
+		2 = iranian_persian_18
+		2 = iranian_persian_19
+		2 = iranian_persian_20
+		2 = iranian_persian_21
+		2 = iranian_persian_22
+		2 = iranian_persian_23
+		2 = iranian_persian_24
+		2 = iranian_persian_25
+		2 = iranian_persian_26
+		2 = iranian_persian_27
+		2 = iranian_persian_28
+		2 = iranian_persian_29
+		2 = iranian_persian_30
+		2 = iranian_persian_31
+		2 = iranian_persian_32
+		2 = iranian_persian_33
+		2 = iranian_persian_34
+		2 = iranian_persian_35
+		2 = iranian_persian_36
+		2 = iranian_persian_37
+		2 = iranian_persian_38
+		2 = iranian_persian_39
+		2 = iranian_persian_40
+		2 = iranian_persian_41
+		2 = iranian_persian_42
+		2 = iranian_persian_43
+		2 = iranian_persian_44
+		2 = iranian_persian_45
+		2 = iranian_persian_46
+		2 = iranian_persian_47
+		2 = iranian_persian_48
+		2 = iranian_persian_49
+		2 = iranian_persian_50
+		2 = iranian_persian_51
+		2 = iranian_persian_52
+		2 = iranian_persian_53
+		2 = iranian_persian_54
+		2 = iranian_persian_55
+		2 = iranian_persian_56
+		2 = iranian_persian_57
+		2 = iranian_persian_58
+		2 = iranian_persian_59
+		2 = iranian_persian_60
+		2 = iranian_persian_61
+		2 = iranian_persian_62
+		2 = iranian_persian_63
+		2 = iranian_persian_64
+		2 = iranian_persian_65
+		2 = iranian_persian_66
+		2 = iranian_persian_67
+		2 = iranian_persian_68
+		2 = iranian_persian_69
+		2 = iranian_persian_70
+		2 = iranian_persian_71
+		2 = iranian_persian_72
+		2 = iranian_persian_73
+		2 = iranian_persian_74
+		2 = iranian_persian_75
+	}
+}
+
+mazandarani = {
+	color = { 0.756 0.745 0.521 }
+	
+	ethos = ethos_courtly
+	heritage = heritage_iranian
+	language = language_caspian_iranian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_poetry
+		tradition_stalwart_defenders
+		tradition_isolationist
+		tradition_forest_folk
+		tradition_futuwaa
+	}
+	
+	name_list = name_list_mazanderani
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_daylamite_1
+		2 = iranian_daylamite_2
+		2 = iranian_daylamite_3
+		2 = iranian_daylamite_4
+		2 = iranian_daylamite_5
+		2 = iranian_daylamite_6
+		2 = iranian_daylamite_7
+		2 = iranian_daylamite_8
+		2 = iranian_daylamite_9
+		2 = iranian_daylamite_10
+		2 = iranian_daylamite_11
+		2 = iranian_daylamite_12
+		2 = iranian_daylamite_13
+		2 = iranian_daylamite_14
+		2 = iranian_daylamite_15
+		2 = iranian_daylamite_16
+		2 = iranian_daylamite_17
+		2 = iranian_daylamite_18
+		2 = iranian_daylamite_19
+		2 = iranian_daylamite_20
+		2 = iranian_daylamite_21
+		2 = iranian_daylamite_22
+		2 = iranian_daylamite_23
+	}
+}
+
+gilani = {
+	color = { 0.856 0.845 0.721 }
+	
+	ethos = ethos_communal
+	heritage = heritage_iranian
+	language = language_caspian_iranian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stalwart_defenders
+		tradition_isolationist
+		tradition_esteemed_hospitality 
+		tradition_futuwaa
+	}
+	
+	name_list = name_list_daylamite
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_daylamite_1
+		2 = iranian_daylamite_2
+		2 = iranian_daylamite_3
+		2 = iranian_daylamite_4
+		2 = iranian_daylamite_5
+		2 = iranian_daylamite_6
+		2 = iranian_daylamite_7
+		2 = iranian_daylamite_8
+		2 = iranian_daylamite_9
+		2 = iranian_daylamite_10
+		2 = iranian_daylamite_11
+		2 = iranian_daylamite_12
+		2 = iranian_daylamite_13
+		2 = iranian_daylamite_14
+		2 = iranian_daylamite_15
+		2 = iranian_daylamite_16
+		2 = iranian_daylamite_17
+		2 = iranian_daylamite_18
+		2 = iranian_daylamite_19
+		2 = iranian_daylamite_20
+		2 = iranian_daylamite_21
+		2 = iranian_daylamite_22
+		2 = iranian_daylamite_23
+	}
+}
+
+#EAST IRANIAN
+
+huna = { #Indo-Huna Tribes representing remnant Alchon Huns, Kidarites, in India
+	color = { 0.772 0.549 0.662 }
+
+	parents = { saka }
+
+	created = 670.1.1 # Represents their partial assimilation into the Indian sub-continents traditions and culture.
+	history_loc_override = huna_history_loc
+
+	ethos = ethos_bellicose
+	heritage = heritage_iranian
+	language = language_bactrian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_religion_blending
+		tradition_horse_lords
+		tradition_xenophilic
+		tradition_religious_patronage
+	}
+	
+	name_list = name_list_hephthalite
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_saka_01
+		2 = iranian_saka_02
+		2 = iranian_saka_03
+		2 = iranian_saka_04
+		2 = iranian_saka_05
+		2 = iranian_saka_06
+		2 = iranian_saka_07
+		2 = iranian_saka_08
+		2 = iranian_saka_09
+		2 = iranian_saka_10
+		2 = iranian_saka_11
+		2 = iranian_saka_12
+		2 = iranian_saka_13
+		2 = iranian_saka_14
+		2 = iranian_saka_15
+		2 = iranian_saka_16
+		2 = iranian_saka_17
+		2 = iranian_saka_18
+		2 = iranian_saka_19
+		2 = iranian_saka_20
+	}
+}
+
+#tati = { #
+#	color = { 0.5 0.4 0.6 }
+#	
+#	parents = { persian }
+#
+#	created = 500.1.1 #Likely the ancestors of modern Tats settled in South Caucasus when the Sassanid Empire from the 3rd to 7th centuries built cities and founded military garrisons to strengthen their positions in this region.
+#	
+#	ethos = ethos_communal
+#	heritage = heritage_iranian
+#	language = language_adharic
+#	martial_custom = martial_custom_male_only
+#	traditions = {
+#		tradition_poetry
+#		tradition_artisans
+#		tradition_agrarian
+#		tradition_futuwaa
+#	}
+#	
+#	name_list = name_list_persian
+#	
+#	coa_gfx = { iranian_group_coa_gfx }
+#	building_gfx = { mena_building_gfx }
+#	clothing_gfx = { iranian_clothing_gfx }
+#	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+#	
+#	ethnicities = {
+#		2 = iranian_persian_1
+#		2 = iranian_persian_2
+#		2 = iranian_persian_3
+#		2 = iranian_persian_4
+#		2 = iranian_persian_5
+#		2 = iranian_persian_6
+#		2 = iranian_persian_7
+#		2 = iranian_persian_8
+#		2 = iranian_persian_9
+#		2 = iranian_persian_10
+#		2 = iranian_persian_11
+#		2 = iranian_persian_12
+#		2 = iranian_persian_13
+#		2 = iranian_persian_14
+#		2 = iranian_persian_15
+#		2 = iranian_persian_16
+#		2 = iranian_persian_17
+#		2 = iranian_persian_18
+#		2 = iranian_persian_19
+#		2 = iranian_persian_20
+#		2 = iranian_persian_21
+#		2 = iranian_persian_22
+#		2 = iranian_persian_23
+#		2 = iranian_persian_24
+#		2 = iranian_persian_25
+#		2 = iranian_persian_26
+#		2 = iranian_persian_27
+#		2 = iranian_persian_28
+#		2 = iranian_persian_29
+#		2 = iranian_persian_30
+#		2 = iranian_persian_31
+#		2 = iranian_persian_32
+#		2 = iranian_persian_33
+#		2 = iranian_persian_34
+#		2 = iranian_persian_35
+#		2 = iranian_persian_36
+#		2 = iranian_persian_37
+#		2 = iranian_persian_38
+#		2 = iranian_persian_39
+#		2 = iranian_persian_40
+#		2 = iranian_persian_41
+#		2 = iranian_persian_42
+#		2 = iranian_persian_43
+#		2 = iranian_persian_44
+#		2 = iranian_persian_45
+#		2 = iranian_persian_46
+#		2 = iranian_persian_47
+#		2 = iranian_persian_48
+#		2 = iranian_persian_49
+#		2 = iranian_persian_50
+#		2 = iranian_persian_51
+#		2 = iranian_persian_52
+#		2 = iranian_persian_53
+#		2 = iranian_persian_54
+#		2 = iranian_persian_55
+#		2 = iranian_persian_56
+#		2 = iranian_persian_57
+#		2 = iranian_persian_58
+#		2 = iranian_persian_59
+#		2 = iranian_persian_60
+#		2 = iranian_persian_61
+#		2 = iranian_persian_62
+#		2 = iranian_persian_63
+#		2 = iranian_persian_64
+#		2 = iranian_persian_65
+#		2 = iranian_persian_66
+#		2 = iranian_persian_67
+#		2 = iranian_persian_68
+#		2 = iranian_persian_69
+#		2 = iranian_persian_70
+#		2 = iranian_persian_71
+#		2 = iranian_persian_72
+#		2 = iranian_persian_73
+#		2 = iranian_persian_74
+#		2 = iranian_persian_75
+#	}
+#}
+
+talysh = { #
+	color = { 0.6 0.7 0.4 }
+	
+	ethos = ethos_spiritual
+	heritage = heritage_iranian
+	language = language_adharic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_isolationist
+		tradition_artisans
+		tradition_agrarian
+		tradition_faith_bound
+	}
+	
+	name_list = name_list_persian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_persian_1
+		2 = iranian_persian_2
+		2 = iranian_persian_3
+		2 = iranian_persian_4
+		2 = iranian_persian_5
+		2 = iranian_persian_6
+		2 = iranian_persian_7
+		2 = iranian_persian_8
+		2 = iranian_persian_9
+		2 = iranian_persian_10
+		2 = iranian_persian_11
+		2 = iranian_persian_12
+		2 = iranian_persian_13
+		2 = iranian_persian_14
+		2 = iranian_persian_15
+		2 = iranian_persian_16
+		2 = iranian_persian_17
+		2 = iranian_persian_18
+		2 = iranian_persian_19
+		2 = iranian_persian_20
+		2 = iranian_persian_21
+		2 = iranian_persian_22
+		2 = iranian_persian_23
+		2 = iranian_persian_24
+		2 = iranian_persian_25
+		2 = iranian_persian_26
+		2 = iranian_persian_27
+		2 = iranian_persian_28
+		2 = iranian_persian_29
+		2 = iranian_persian_30
+		2 = iranian_persian_31
+		2 = iranian_persian_32
+		2 = iranian_persian_33
+		2 = iranian_persian_34
+		2 = iranian_persian_35
+		2 = iranian_persian_36
+		2 = iranian_persian_37
+		2 = iranian_persian_38
+		2 = iranian_persian_39
+		2 = iranian_persian_40
+		2 = iranian_persian_41
+		2 = iranian_persian_42
+		2 = iranian_persian_43
+		2 = iranian_persian_44
+		2 = iranian_persian_45
+		2 = iranian_persian_46
+		2 = iranian_persian_47
+		2 = iranian_persian_48
+		2 = iranian_persian_49
+		2 = iranian_persian_50
+		2 = iranian_persian_51
+		2 = iranian_persian_52
+		2 = iranian_persian_53
+		2 = iranian_persian_54
+		2 = iranian_persian_55
+		2 = iranian_persian_56
+		2 = iranian_persian_57
+		2 = iranian_persian_58
+		2 = iranian_persian_59
+		2 = iranian_persian_60
+		2 = iranian_persian_61
+		2 = iranian_persian_62
+		2 = iranian_persian_63
+		2 = iranian_persian_64
+		2 = iranian_persian_65
+		2 = iranian_persian_66
+		2 = iranian_persian_67
+		2 = iranian_persian_68
+		2 = iranian_persian_69
+		2 = iranian_persian_70
+		2 = iranian_persian_71
+		2 = iranian_persian_72
+		2 = iranian_persian_73
+		2 = iranian_persian_74
+		2 = iranian_persian_75
+	}
+}
+
+luri = {
+	color = { 0.4 0.3 0.4 }
+	
+	ethos = ethos_communal
+	heritage = heritage_iranian
+	language = language_persid
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+		tradition_agrarian
+		tradition_dryland_dwellers
+		tradition_futuwaa
+	}
+	
+	name_list = name_list_persian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+			2 = iranian_persian_1
+			2 = iranian_persian_2
+			2 = iranian_persian_3
+			2 = iranian_persian_4
+			2 = iranian_persian_5
+			2 = iranian_persian_6
+			2 = iranian_persian_7
+			2 = iranian_persian_8
+			2 = iranian_persian_9
+			2 = iranian_persian_10
+			2 = iranian_persian_11
+			2 = iranian_persian_12
+			2 = iranian_persian_13
+			2 = iranian_persian_14
+			2 = iranian_persian_15
+			2 = iranian_persian_16
+			2 = iranian_persian_17
+			2 = iranian_persian_18
+			2 = iranian_persian_19
+			2 = iranian_persian_20
+			2 = iranian_persian_21
+			2 = iranian_persian_22
+			2 = iranian_persian_23
+			2 = iranian_persian_24
+			2 = iranian_persian_25
+			2 = iranian_persian_26
+			2 = iranian_persian_27
+			2 = iranian_persian_28
+			2 = iranian_persian_29
+			2 = iranian_persian_30
+			2 = iranian_persian_31
+			2 = iranian_persian_32
+			2 = iranian_persian_33
+			2 = iranian_persian_34
+			2 = iranian_persian_35
+			2 = iranian_persian_36
+			2 = iranian_persian_37
+			2 = iranian_persian_38
+			2 = iranian_persian_39
+			2 = iranian_persian_40
+			2 = iranian_persian_41
+			2 = iranian_persian_42
+			2 = iranian_persian_43
+			2 = iranian_persian_44
+			2 = iranian_persian_45
+			2 = iranian_persian_46
+			2 = iranian_persian_47
+			2 = iranian_persian_48
+			2 = iranian_persian_49
+			2 = iranian_persian_50
+			2 = iranian_persian_51
+			2 = iranian_persian_52
+			2 = iranian_persian_53
+			2 = iranian_persian_54
+			2 = iranian_persian_55
+			2 = iranian_persian_56
+			2 = iranian_persian_57
+			2 = iranian_persian_58
+			2 = iranian_persian_59
+			2 = iranian_persian_60
+			2 = iranian_persian_61
+			2 = iranian_persian_62
+			2 = iranian_persian_63
+			2 = iranian_persian_64
+			2 = iranian_persian_65
+			2 = iranian_persian_66
+			2 = iranian_persian_67
+			2 = iranian_persian_68
+			2 = iranian_persian_69
+			2 = iranian_persian_70
+			2 = iranian_persian_71
+			2 = iranian_persian_72
+			2 = iranian_persian_73
+			2 = iranian_persian_74
+			2 = iranian_persian_75
+	}
+}
+
+aschomi = { #
+	color = { 0.3 0.5 0.6 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_iranian
+	language = language_achom
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_equitable
+		tradition_agrarian
+		tradition_mountain_homes
+		tradition_futuwaa
+	}
+	
+	name_list = name_list_persian
+	
+	coa_gfx = { iranian_group_coa_gfx }
+	building_gfx = { mena_building_gfx }
+	clothing_gfx = { iranian_clothing_gfx }
+	unit_gfx = { iranian_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+			2 = iranian_persian_1
+			2 = iranian_persian_2
+			2 = iranian_persian_3
+			2 = iranian_persian_4
+			2 = iranian_persian_5
+			2 = iranian_persian_6
+			2 = iranian_persian_7
+			2 = iranian_persian_8
+			2 = iranian_persian_9
+			2 = iranian_persian_10
+			2 = iranian_persian_11
+			2 = iranian_persian_12
+			2 = iranian_persian_13
+			2 = iranian_persian_14
+			2 = iranian_persian_15
+			2 = iranian_persian_16
+			2 = iranian_persian_17
+			2 = iranian_persian_18
+			2 = iranian_persian_19
+			2 = iranian_persian_20
+			2 = iranian_persian_21
+			2 = iranian_persian_22
+			2 = iranian_persian_23
+			2 = iranian_persian_24
+			2 = iranian_persian_25
+			2 = iranian_persian_26
+			2 = iranian_persian_27
+			2 = iranian_persian_28
+			2 = iranian_persian_29
+			2 = iranian_persian_30
+			2 = iranian_persian_31
+			2 = iranian_persian_32
+			2 = iranian_persian_33
+			2 = iranian_persian_34
+			2 = iranian_persian_35
+			2 = iranian_persian_36
+			2 = iranian_persian_37
+			2 = iranian_persian_38
+			2 = iranian_persian_39
+			2 = iranian_persian_40
+			2 = iranian_persian_41
+			2 = iranian_persian_42
+			2 = iranian_persian_43
+			2 = iranian_persian_44
+			2 = iranian_persian_45
+			2 = iranian_persian_46
+			2 = iranian_persian_47
+			2 = iranian_persian_48
+			2 = iranian_persian_49
+			2 = iranian_persian_50
+			2 = iranian_persian_51
+			2 = iranian_persian_52
+			2 = iranian_persian_53
+			2 = iranian_persian_54
+			2 = iranian_persian_55
+			2 = iranian_persian_56
+			2 = iranian_persian_57
+			2 = iranian_persian_58
+			2 = iranian_persian_59
+			2 = iranian_persian_60
+			2 = iranian_persian_61
+			2 = iranian_persian_62
+			2 = iranian_persian_63
+			2 = iranian_persian_64
+			2 = iranian_persian_65
+			2 = iranian_persian_66
+			2 = iranian_persian_67
+			2 = iranian_persian_68
+			2 = iranian_persian_69
+			2 = iranian_persian_70
+			2 = iranian_persian_71
+			2 = iranian_persian_72
+			2 = iranian_persian_73
+			2 = iranian_persian_74
+			2 = iranian_persian_75
+	}
+}

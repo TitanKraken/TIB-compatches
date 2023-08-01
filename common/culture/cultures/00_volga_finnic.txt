@@ -1,0 +1,164 @@
+﻿# Several groups in this file have extremely little available evidence to go off of, and so are more educated guesses than we'd like. They should be updated comprehensively when we can. Specifically:
+	# * Merya
+	# * Meshchera
+	# * Muroma
+
+mordvin = {
+	color = mordvin
+	
+	ethos = ethos_stoic
+	heritage = heritage_volga_finnic
+	language = language_mordvinic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+		tradition_festivities
+		tradition_religion_blending
+	}
+	
+	name_list = name_list_mordvin
+	
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			30 = european_circumpolar_dark_1
+			30 = european_circumpolar_dark_2
+			20 = european_circumpolar_brown_1
+			10 = european_circumpolar_brown_2
+			5 = european_circumpolar_blond_1
+			5 = european_circumpolar_blond_2
+	}
+}
+
+merya = {
+	color = { 0.25 0.5 0.8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_volga_finnic
+	language = language_merya
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_storytellers
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_merya
+	
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			30 = european_circumpolar_dark_1
+			30 = european_circumpolar_dark_2
+			20 = european_circumpolar_brown_1
+			10 = european_circumpolar_brown_2
+			5 = european_circumpolar_blond_1
+			5 = european_circumpolar_blond_2
+	}
+}
+
+meshchera = {
+	color = { 0.35 0.4 0.8 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_volga_finnic
+	language = language_mordvinic #Extinct language. Unknown if it was Permic or Mordvinic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+		tradition_religion_blending
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_meshchera
+	
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			30 = european_circumpolar_dark_1
+			30 = european_circumpolar_dark_2
+			20 = european_circumpolar_brown_1
+			10 = european_circumpolar_brown_2
+			5 = european_circumpolar_blond_1
+			5 = european_circumpolar_blond_2
+	}
+}
+
+mari = {
+	color = { 0.45 0.55 0.85 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_volga_finnic
+	language = language_mari #Volga Finnic/East Finns is the cultural group not a language group. These languages weren't all mutually intelligible 
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_music_theory
+		tradition_festivities
+	}
+	
+	name_list = name_list_mari
+	
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			30 = european_circumpolar_dark_1
+			30 = european_circumpolar_dark_2
+			20 = european_circumpolar_brown_1
+			10 = european_circumpolar_brown_2
+			5 = european_circumpolar_blond_1
+			5 = european_circumpolar_blond_2
+	}
+}
+
+muroma = {
+	color = { 0.2 0.3 0.6 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_volga_finnic
+	language = language_merya #Extinct unattested language. According to toponymy it was likely close to Merya
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_storytellers
+		tradition_festivities
+	}
+	
+	dlc_tradition = {
+		trait = tradition_culture_blending
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_muroma
+	
+	coa_gfx = { steppe_coa_gfx volga_finnic_group_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+			30 = european_circumpolar_dark_1
+			30 = european_circumpolar_dark_2
+			20 = european_circumpolar_brown_1
+			10 = european_circumpolar_brown_2
+			5 = european_circumpolar_blond_1
+			5 = european_circumpolar_blond_2
+	}
+}

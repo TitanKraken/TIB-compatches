@@ -1,0 +1,132 @@
+﻿gothic = {
+	color = { 0.5 0.4 0.8 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_east_germanic
+	language = language_gothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stand_and_fight
+		tradition_formation_fighting
+		tradition_martial_admiration
+	}
+
+    dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_gothic
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx byzantine_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+			10 = european_caucasian_northern_blond_1
+			10 = european_caucasian_northern_blond_3
+			10 = european_caucasian_northern_blond_4
+			10 = european_caucasian_northern_blond_5
+			10 = european_caucasian_northern_blond_6
+			10 = european_caucasian_northern_blond_7_baltic
+			10 = european_caucasian_northern_ginger_1
+			5 = european_caucasian_northern_brown_1
+			5 = european_caucasian_northern_brown_2
+			5 = european_caucasian_northern_brown_3
+			5 = european_caucasian_northern_dark_1
+			5 = european_caucasian_northern_dark_2
+			5 = european_caucasian_northern_dark_3
+	}
+}
+
+ostrogothic = {
+	color = langobard
+	
+    created = 453.1.1
+
+	parents = { gothic }
+
+	ethos = ethos_bellicose
+	heritage = heritage_east_germanic
+	language = language_gothic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_visigothic_codes
+        tradition_stand_and_fight
+		tradition_martial_admiration
+		tradition_ruling_caste
+		tradition_legalistic
+	}
+
+    dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_ostrogothic
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { italian_clothing_gfx northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+
+    ethnicities = {
+			10 = european_caucasian_northern_blond_1
+			10 = european_caucasian_northern_blond_3
+			10 = european_caucasian_northern_blond_4
+			10 = european_caucasian_northern_blond_5
+			10 = european_caucasian_northern_blond_6
+			10 = european_caucasian_northern_blond_7_baltic
+			10 = european_caucasian_northern_ginger_1
+			5 = european_caucasian_northern_brown_1
+			5 = european_caucasian_northern_brown_2
+			5 = european_caucasian_northern_brown_3
+			5 = european_caucasian_northern_dark_1
+			5 = european_caucasian_northern_dark_2
+			5 = european_caucasian_northern_dark_3
+	}
+}
+
+burgundian = {
+	color = { 134 0 37 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_east_germanic
+	language = language_burgundian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_stand_and_fight
+		tradition_things
+		tradition_martial_admiration
+		tradition_legalistic
+	}
+
+    dlc_tradition = {
+		trait = tradition_malleable_invaders
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_burgundian
+	
+	coa_gfx = { norse_coa_gfx western_coa_gfx }
+	building_gfx = { mediterranean_building_gfx }
+	clothing_gfx = { fp1_norse_clothing_gfx french_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+			10 = european_caucasian_northern_blond_1
+			10 = european_caucasian_northern_blond_3
+			10 = european_caucasian_northern_blond_4
+			10 = european_caucasian_northern_blond_5
+			10 = european_caucasian_northern_blond_6
+			10 = european_caucasian_northern_blond_7_baltic
+			10 = european_caucasian_northern_ginger_1
+			5 = european_caucasian_northern_brown_1
+			5 = european_caucasian_northern_brown_2
+			5 = european_caucasian_northern_brown_3
+			5 = european_caucasian_northern_dark_1
+			5 = european_caucasian_northern_dark_2
+			5 = european_caucasian_northern_dark_3
+	}
+}
